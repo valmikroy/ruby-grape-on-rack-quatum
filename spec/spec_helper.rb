@@ -24,6 +24,7 @@ Capybara.configure do |config|
 end
 
 # With PhantomJS
+# install gem poltergeist - A PhantomJS driver for Capybara
 # brew install phantomjs
 # for linux copy bin/phantomjs from tar and avoid using broken ubuntu package
 # https://github.com/teampoltergeist/poltergeist/issues/866
